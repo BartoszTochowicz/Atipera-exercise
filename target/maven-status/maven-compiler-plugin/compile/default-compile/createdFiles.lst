@@ -1,1 +1,6 @@
-src\main\java\com\atipera\Controller.class
+com\atipera\AtiperaApplication.class
+com\atipera\exceptions\UsernameException.class
+com\atipera\model\BranchInfo.class
+com\atipera\exceptions\GlobalExceptionHandler.class
+com\atipera\controller\GitHubController.class
+com\atipera\service\GitHubService.class

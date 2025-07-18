@@ -1,1 +1,6 @@
-C:\Users\Bartek\OneDrive\Dokumenty\GitHub\Atipera-exercise\src\main\java\com\atipera\Controller.java
+C:\Users\Bartek\OneDrive\Dokumenty\GitHub\Atipera-exercise\src\main\java\com\atipera\controller\GitHubController.java
+C:\Users\Bartek\OneDrive\Dokumenty\GitHub\Atipera-exercise\src\main\java\com\atipera\AtiperaApplication.java
+C:\Users\Bartek\OneDrive\Dokumenty\GitHub\Atipera-exercise\src\main\java\com\atipera\exceptions\UsernameException.java
+C:\Users\Bartek\OneDrive\Dokumenty\GitHub\Atipera-exercise\src\main\java\com\atipera\model\BranchInfo.java
+C:\Users\Bartek\OneDrive\Dokumenty\GitHub\Atipera-exercise\src\main\java\com\atipera\service\GitHubService.java
+C:\Users\Bartek\OneDrive\Dokumenty\GitHub\Atipera-exercise\src\main\java\com\atipera\exceptions\GlobalExceptionHandler.java
