@@ -11,7 +11,7 @@ A Spring Boot application that consumes the GitHub API to list non-fork reposito
 
 ## Technologies Used
 
-- Java 17
+- Java 21
 - Spring Boot
 - Maven
 - Dotenv
@@ -58,7 +58,7 @@ Other error responses may include:
 
 ### Prerequisites
 
-- Java 17+
+- Java 21+
 - Maven 3.6+
 - A GitHub personal access token (for accessing the GitHub API)
 
