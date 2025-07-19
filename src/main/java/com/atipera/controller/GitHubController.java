@@ -25,7 +25,7 @@ public class GitHubController{
     }
     @Operation(summary = "User's repositories list")
     @GetMapping("/repos")
-    public ResponseEntity<List<BranchInfo>> getRepositories(String username){
+    public ResponseEntity<List<BranchInfo>> getRepositories(@RequestParam String username){
         List<BranchInfo> repos = githubService.fetchRepos(username);
         return ResponseEntity.ok(repos);
     }
