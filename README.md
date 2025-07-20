@@ -121,6 +121,13 @@ If a user does not exist on GitHub, the API returns a 404 response in the follow
 
 Other errors (like invalid token or rate limiting) will return appropriate HTTP status codes and error messages.
 
+## Tests
+To run integration test use following command in terminal:
+```
+mvn clean compile test-compile
+mvn test   
+
+```
 
 ## License
 
